@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Perkanalkan namaku **Dika Fajar Ramadan**, aku lulusan Informatika Telkom University. Aku tertarik dibidang Web Developer baik disisi Front End maupun Back End, juga tertarik pada Machine Learning dan Data Science. 
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/dika-fajar-ramadan), [Instagram](https://www.instagram.com/dikafajar_/).
+
+
 <!--
 **dikafajar07/dikafajar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
